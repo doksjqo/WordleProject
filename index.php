@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
 
@@ -10,10 +10,21 @@
 
 </head>
 <body>
+<?php include "php/templates/header.php" ?>
+
+
+
+
 
 <h1>Hello World</h1>
 <img src="https://i.gifer.com/g0R9.gif" alt="loading circle">
 <h3>Waiting for some content...</h3>
+
+
+
+
+
+<?php include "php/templates/footer.php" ?>
 
 </body>
 </html>
